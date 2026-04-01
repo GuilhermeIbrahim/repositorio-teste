@@ -13,6 +13,7 @@
 Esse texto tem um exemplo de **negrito** e esse é um exemplo de *itálico*
 
 > Essa é uma citação
+> de duas linhas
 
 ## Outro exemplo
  [link](https://alan-turing-project.netlify.app)
